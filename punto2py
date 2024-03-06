@@ -10,18 +10,26 @@ while inicio:
     meun = print("1.ver ususarios \n2. agragar usuario \n3.salir")
     opcion = int(input("elija una opcion :"))
     if opcion == 1:
-        pass
-    elif opcion == 2:
-        
+        = input('Ingrese el nombre: ')
+        nuevoUsuario = {
+            id = input("ingrese") 
+            nombres = input("ingrese") 
+            apellidos = input("ingrese") 
+            ubicacion = input("ingrese") 
+            email = input("ingrese") 
+            edad = input("ingrese") 
+            ocupacion = input("ingrese") 
+            }
+             
         hola = ( int(input("Ingrese la cantidad")) * 3944)
         print(hola)
-nuevoUsuario = {
-    "id": id,
-    "nombres": nombres,
-    "apellidos": apellidos,
-    "ubicacion": ubicacion,
-    "email": [],
-    "edad": edad,
-    "ocupacion": ocupacion,
-    
-}
+        nuevoUsuario = {
+            "id": id,
+            "nombres": nombres,
+            "apellidos": apellidos,
+            "ubicacion": ubicacion,
+            "email": [],
+            edad": edad,
+            "       ocupacion": ocupacion,
+            if opcion == 2:
+        brek
